@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+body {
+    font-family: Roboto;
+}
+
+.first-container-heading {
+    font-size: 25px;
+    margin: 20px;
+    font-weight: 500;
+}
+
+
+.first-container-image {
+    height: 100px;
+    width: 100px;
+}
+
+.second-container-image {
+    height: 50px;
+    width: 50px;
+}
+
+.btn {
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+
+}
+
+.second-container {
+    margin: 20px;
+    background-color: #0967d219;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.second-container-heading {
+    font-size: 22px;
+    padding-left: 15px;
+}
+
+.second-container-paragraph {
+    font-size: 15px;
+    padding-left: 15px;
+}
+
+.third-container-heading {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.third-container-image1 {
+    text-align: center;
+
+}
+
+.green-container {
+    background-color: #3ebd93;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px 10px 10px 20px;
+}
+
+.pink-container {
+    background-color: #e668a7;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.purple-container {
+    background-color: #a368fc;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.imgage-para {
+    color: #fff;
+    padding-top: 5px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.last-container {
+    background-color: #e12d3910;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.last-container-img {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    margin: 20px;
+}
+
+.last-container-heading {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.last-container-paragraph {
+    font-size: 15px;
+    margin: 20px;
+}

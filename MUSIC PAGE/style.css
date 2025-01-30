@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+body{
+    font-family: 'Roboto' ;
+}
+
+.main-bg-image-container{
+    background-image: url('https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.center-container{
+    text-align:center;
+    color: #ffffff;
+    
+}
+
+.center-items{
+    text-align:center;
+    padding:100px 80px 80px 80px;
+    color: #ffffff;
+}
+
+.main-bg-image-container-heading{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.main-bg-image-container-para{
+    font-size: 18px
+}
+
+.night-island-container-img{
+    height: 30vh;
+    width: 50vh;
+    
+}
+
+.night-island-container{
+    text-align:center;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    height: 30vh;
+    width: 50vh;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.night-island-container-heading{
+    font-size: 30px;
+    color: #ffe7bf;
+    padding: 50px
+    
+}
+
+.to-center-items{
+    text-align:center;
+    color: #ffffff;
+    margin-top: 20px;
+
+    
+}
+
+.button1{
+    background-color: #8e97fd;
+    color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    border-radius: 15px;
+    height: 40px;
+    width: 120px;
+    border-width : 0px
+}
+
+
+/* Detailed Page */
+
+.upper-img{
+    height: 40vh;
+    text-align:center;
+}
+
+.detailed-bg-image-container{
+    background-color: #03174c;
+    height:100vh;
+}
+
+.detailed-page-heading{
+    color: #fff;
+    font-family : "Bree Serif";
+    font-size : 25px;
+    margin : 5px 20px 20px 20px;
+}
+
+.detailed-page-paragraph{
+
+    color: #98a1bd;
+    font-family : "Bree Serif";
+    font-size : 15px;
+    margin : 5px 20px 20px 20px;
+}
+
+.detailed-page-second-para{
+    color: #98a1bd;
+    font-family : "Bree Serif";
+    font-size : 15px;
+    margin : 5px 20px 20px 20px;
+}
+
+.image-size-adjust{
+
+    height : 100px;
+    margin : 20px;
+
+}
+
+.image-heading{
+    font-size : 25px;
+    color : #fff;
+    margin : 10px;
+}
+
+.button2{
+    margin : 20px;
+    border-width : 0px
+}

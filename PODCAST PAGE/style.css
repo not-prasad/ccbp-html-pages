@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+    font-family: Roboto;
+}
+
+.podcast-page-home-container{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    height:50vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.podcast-page-home-container-heading{
+    padding: 20px;
+    color:#fff;
+}
+
+.img-styles{
+    height: 100px;
+    width: 120px;
+    text-align: center;
+    
+    
+}
+
+.first-row-container{
+    margin: 20px;
+    padding: 10px;
+}
+
+.first-row-container-heading{
+    font-size: 20px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.podcast-page-middle-first-container{
+    text-align: center;
+    
+}
+
+.puri-jagannath-page{
+    background-color: #151765;
+    height: 30vh;
+    text-align: start;
+    
+}
+
+.special-image{
+    margin: 20px;
+    height: 120px;
+    width: 160px;
+}
+
+.detailed-page-heading{
+    color: #fff;
+    font-size: 30px;
+    /* font-weight: bold; */
+}
+.detailed-page-paragraph{
+    color: #fff;
+    font-size: 15px;
+    
+}
+
+.detailed-page-heading-small{
+    color: #fff;
+    font-size: 12px;
+    
+}
+.detailed-page-upper-container{
+    margin: auto;
+    
+}
+
+.detailed-page-small-containers-heading{
+    font-size: 20px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.detailed-page-small-containers-style{
+    margin: 20px;
+    text-align: center;
+}
+.detailed-page-small-containers-para{
+    color: #5a7184;
+}
+.sizef{
+    font-size: 15px;
+}
+
+.button-back{
+    color: #fff;
+    border-radius: 15px;
+    background-color: #151765;
+    text-align: center;
+    width: 100px;
+}
+
+.btn-adjust{
+    padding: 15px;
+    margin: 20px;
+    text-align: end;
+    
+}
+
